@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/quae-tempora-commodi-doloremque",
-  "version": "2.10.113",
+  "version": "2.10.114",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -587,5 +587,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/quae-tempora-commodi-doloremque/issues"
   },
-  "packageManager": "yarn@4.4.0"
+  "packageManager": "yarn@4.4.1"
 }
